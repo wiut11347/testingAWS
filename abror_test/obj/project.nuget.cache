@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "a/BuhyQhtx/nAg51R/hQKAFptyTYa3dimoiXwsWuVDhUjcfi56XaNHaMGtbSoSGDyG6BTKsss/+YzAfDuiKq/Q==",
+  "dgSpecHash": "Z4hwhO4QAO8v9CCfI+mjTFDXizwIG33tGbUw8tWZ0CuG7pVfKRk5Kg8BvQXtmKNddpJEb4/GE3m/NoCVrzKBog==",
   "success": true,
-  "projectFilePath": "C:\\Users\\abror\\OneDrive\\Desktop\\VSTEST\\abror_test\\abror_test\\abror_test.csproj",
+  "projectFilePath": "C:\\Users\\abror\\OneDrive\\Desktop\\repoTEST\\testingAWS\\abror_test\\abror_test.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\abror\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\abror\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\abror\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.4\\microsoft.visualstudio.azure.containers.tools.targets.1.19.4.nupkg.sha512",
     "C:\\Users\\abror\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
     "C:\\Users\\abror\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
     "C:\\Users\\abror\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",

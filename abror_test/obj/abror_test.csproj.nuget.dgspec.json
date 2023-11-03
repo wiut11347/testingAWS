@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\abror\\OneDrive\\Desktop\\VSTEST\\abror_test\\abror_test\\abror_test.csproj": {}
+    "C:\\Users\\abror\\OneDrive\\Desktop\\repoTEST\\testingAWS\\abror_test\\abror_test.csproj": {}
   },
   "projects": {
-    "C:\\Users\\abror\\OneDrive\\Desktop\\VSTEST\\abror_test\\abror_test\\abror_test.csproj": {
+    "C:\\Users\\abror\\OneDrive\\Desktop\\repoTEST\\testingAWS\\abror_test\\abror_test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\abror\\OneDrive\\Desktop\\VSTEST\\abror_test\\abror_test\\abror_test.csproj",
+        "projectUniqueName": "C:\\Users\\abror\\OneDrive\\Desktop\\repoTEST\\testingAWS\\abror_test\\abror_test.csproj",
         "projectName": "abror_test",
-        "projectPath": "C:\\Users\\abror\\OneDrive\\Desktop\\VSTEST\\abror_test\\abror_test\\abror_test.csproj",
+        "projectPath": "C:\\Users\\abror\\OneDrive\\Desktop\\repoTEST\\testingAWS\\abror_test\\abror_test.csproj",
         "packagesPath": "C:\\Users\\abror\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\abror\\OneDrive\\Desktop\\VSTEST\\abror_test\\abror_test\\obj\\",
+        "outputPath": "C:\\Users\\abror\\OneDrive\\Desktop\\repoTEST\\testingAWS\\abror_test\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\abror\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -40,6 +40,10 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+            "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
+              "target": "Package",
+              "version": "[1.19.4, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.5.0, )"
