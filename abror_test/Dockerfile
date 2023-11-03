@@ -7,7 +7,7 @@ EXPOSE 80
 FROM mcr.microsoft.com/dotnet/sdk:6.0 AS build
 WORKDIR /src
 COPY ["abror_test.csproj", "abror_test/"]
-RUN dotnet restore "abror_test.csproj"
+RUN dotnet restore "abror_test/abror_test.csproj"
 WORKDIR "/src/abror_test"
 COPY . .
 RUN dotnet build "abror_test.csproj" -c Release -o /app/build
